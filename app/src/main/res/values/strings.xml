@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Palette</string>
+    <string name="transicion">transicion</string>
+    <string name="transicionFoto">tranphoto</string>
+</resources>
